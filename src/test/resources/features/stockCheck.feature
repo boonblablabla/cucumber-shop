@@ -1,3 +1,4 @@
+# Matupol Choochotiros 6310450638
 Feature: Check product stock
   As a manager
   I want to get remaining products in stock
